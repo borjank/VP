@@ -1,0 +1,10 @@
+D:\Programming\C#\VP_project\VP_project\bin\Debug\VP_project.exe.config
+D:\Programming\C#\VP_project\VP_project\bin\Debug\VP_project.exe
+D:\Programming\C#\VP_project\VP_project\bin\Debug\VP_project.pdb
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.csprojAssemblyReference.cache
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.Form1.resources
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.Properties.Resources.resources
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.csproj.GenerateResource.cache
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.csproj.CoreCompileInputs.cache
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.exe
+D:\Programming\C#\VP_project\VP_project\obj\Debug\VP_project.pdb
